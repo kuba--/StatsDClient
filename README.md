@@ -1,5 +1,4 @@
-# statsd-client
-Java StatsD Client
+# Java StatsD Client
 
 ```java
 final StatsDClient cli = new StatsDClient("prefix, "host", 7125);
